@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with valid keyword</description>
+   <name>TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17d6e397-12a2-493b-b823-b8a6aa1dade4</testCaseGuid>
+</TestCaseEntity>

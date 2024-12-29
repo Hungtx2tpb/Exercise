@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify navigation when selecting a result from the search result window</description>
+   <name>TC_3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6ce748e-fe14-449c-860d-af7b57983ed5</testCaseGuid>
+</TestCaseEntity>
