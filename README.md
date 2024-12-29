@@ -1,5 +1,7 @@
 # README: Setup and Run Automation Framework
 
+## Note: Source include two file are testcases: TranXuanHung_TestCases_Search, and file AutomationTestingStrategy: TranXuanHung_AutomationTestingStrategy
+
 ## **1. System Requirements**
 Before getting started, ensure your system meets the following requirements:
 
