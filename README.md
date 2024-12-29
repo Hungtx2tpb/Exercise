@@ -17,7 +17,7 @@ Before getting started, ensure your system meets the following requirements:
 
 1. Clone the project repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hungtx2tpb/Exercise.git
    ```
 2. Open Katalon Studio.
 3. Go to **File > Open Project** and select the folder of the downloaded project.
